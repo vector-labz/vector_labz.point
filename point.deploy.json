@@ -4,5 +4,5 @@
     "keyvalue": {},
     "contracts": [],
     "upgradable": false,
-    "rootDir": "public"
+    "rootDir": "out"
 }
